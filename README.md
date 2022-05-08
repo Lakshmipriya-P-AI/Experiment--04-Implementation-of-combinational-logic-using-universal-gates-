@@ -29,8 +29,8 @@ A universal gate is a logic gate which can implement any Boolean function withou
 ```
 /*
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
-Developed by: Vishranthi A
-RegisterNumber:  212221230124
+Developed by: Lakshmi Priya P
+RegisterNumber:  212221230053
 */
 ## F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 
